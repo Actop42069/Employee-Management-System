@@ -1,0 +1,22 @@
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+F:\.NET\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+F:\.NET\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+F:\.NET\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

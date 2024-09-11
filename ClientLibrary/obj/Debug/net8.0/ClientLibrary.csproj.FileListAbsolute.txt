@@ -1,0 +1,22 @@
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Users\Dell XPS\source\repos\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+F:\.NET\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+F:\.NET\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+F:\.NET\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll

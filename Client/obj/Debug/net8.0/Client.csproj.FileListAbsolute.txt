@@ -2096,3 +2096,9 @@ F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.dll
 F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\refint\Client.dll
 F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.pdb
 F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\ref\Client.dll
+F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.sourcelink.json
+F:\.NET\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
+F:\.NET\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
+F:\.NET\EmployeeManagementSystem\Client\bin\Debug\net8.0\AutoMapper.dll
+F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
+F:\.NET\EmployeeManagementSystem\Client\obj\Debug\net8.0\compressed\dlqmo4eu4z.gz

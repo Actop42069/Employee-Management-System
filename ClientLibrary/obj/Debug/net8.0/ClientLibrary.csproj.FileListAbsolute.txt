@@ -20,3 +20,4 @@ F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dl
 F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
 F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
 F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+F:\.NET\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json

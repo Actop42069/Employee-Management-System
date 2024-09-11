@@ -20,3 +20,5 @@ F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
 F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
 F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
 F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+F:\.NET\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache

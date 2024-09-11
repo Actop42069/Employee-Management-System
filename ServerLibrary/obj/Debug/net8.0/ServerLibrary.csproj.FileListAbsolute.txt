@@ -1,0 +1,15 @@
+F:\.NET\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+F:\.NET\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+F:\.NET\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+F:\.NET\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+F:\.NET\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

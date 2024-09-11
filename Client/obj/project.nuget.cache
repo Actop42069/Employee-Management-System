@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U6f+gYlQSnc=",
+  "dgSpecHash": "+h4x5b6d21g=",
   "success": true,
   "projectFilePath": "F:\\.NET\\EmployeeManagementSystem\\Client\\Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",

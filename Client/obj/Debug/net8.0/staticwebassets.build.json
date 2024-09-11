@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k32QwvxVDDw3vs5MCJGvPVBpErbd2JnfsELOLGOa75Q=",
+  "Hash": "y/caWj7GB6WowRqMWp35lBzYfOhOlz4bX+MZCZXrvd0=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\.NET\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
+    },
     {
       "Identity": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb",
       "SourceId": "Client",
@@ -5373,6 +5392,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm"
+    },
+    {
+      "Identity": "F:\\.NET\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\dlqmo4eu4z.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\.NET\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "F:\\.NET\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\dnwgwfjliz.gz",

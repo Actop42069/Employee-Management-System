@@ -20,7 +20,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Repositories\Contracts\" />
-	  <Folder Include="Repositories\Implementation\" />
+	  <ProjectReference Include="..\BaseLibrary\BaseLibrary.csproj" />
 	</ItemGroup>
 </Project>

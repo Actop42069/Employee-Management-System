@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r/v+0xLcFNk=",
+  "dgSpecHash": "szX4eod7TPA=",
   "success": true,
   "projectFilePath": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

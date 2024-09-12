@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "F:\\.NET\\EmployeeManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41C7B952-4CAD-406C-A554-A2409351B244}|Server\\Server.csproj|f:\\.net\\employeemanagementsystem\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7B952-4CAD-406C-A554-A2409351B244}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|f:\\.net\\employeemanagementsystem\\serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7B952-4CAD-406C-A554-A2409351B244}|Server\\Server.csproj|f:\\.net\\employeemanagementsystem\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C7B952-4CAD-406C-A554-A2409351B244}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|f:\\.net\\employeemanagementsystem\\serverlibrary\\repositories\\implementation\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementation\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|f:\\.net\\employeemanagementsystem\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\responses\\loginrespnse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\loginrespnse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|f:\\.net\\employeemanagementsystem\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42EAADD-022E-4353-9E9B-BBD0D722AC4D}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1686D88B-AE01-47A0-AC60-712CD5E42F6B}|BaseLibrary\\BaseLibrary.csproj|f:\\.net\\employeemanagementsystem\\baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +110,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs",
-              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
-              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "DocumentIndex": 1,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:00:21.006Z",
+              "WhenOpened": "2024-09-11T17:45:02.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "LoginRespnse.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Responses\\LoginRespnse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\LoginRespnse.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Responses\\LoginRespnse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\LoginRespnse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:39:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:38:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:36:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserRole.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:34:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:33:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:12:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T17:10:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Implementation\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementation\\UserAccountRepository.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Implementation\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementation\\UserAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:40:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:00:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Login.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Login.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
@@ -96,20 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "AccountBase.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\AccountBase.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
               "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\AccountBase.cs",
               "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T14:58:16.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
@@ -122,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Town.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Town.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Town.cs",
@@ -135,7 +292,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Employee.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:42:31.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:00:21.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Branch.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Branch.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
@@ -148,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Department.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Department.cs",
@@ -161,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "GeneralDepartment.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\GeneralDepartment.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\GeneralDepartment.cs",
@@ -174,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
@@ -187,21 +370,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Employee.cs",
-              "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T14:42:31.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServerLibrary",
+              "DocumentIndex": 20,
+              "Title": "ServerLibrary.csproj",
               "DocumentMoniker": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
               "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
               "ToolTip": "F:\\.NET\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",

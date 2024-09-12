@@ -26,13 +26,12 @@ This project is an Employee Management System developed using .NET and Blazor. I
 
 ### Prerequisites
 
-- .NET SDK installed (version X.X or higher)
-- Visual Studio 20XX or Visual Studio Code
+- Visual Studio 2022 or Visual Studio Code
 - SQL Server (Express or higher) for database storage
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository
 2. Open the solution in Visual Studio or Visual Studio Code.
 3. Restore NuGet packages and npm packages if applicable.
 4. Update database connection string in `appsettings.json`.
